@@ -5,3 +5,6 @@ git has a mutable index called stage.
 git tracks changes of files.
 
 git branch learn.
+git test stash.
+
+git tests cloned dev branch.
