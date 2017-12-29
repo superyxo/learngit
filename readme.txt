@@ -5,3 +5,5 @@ git has a mutable index called stage.
 git tracks changes of files.
 
 git branch learn.
+
+add a line for git cloned.
